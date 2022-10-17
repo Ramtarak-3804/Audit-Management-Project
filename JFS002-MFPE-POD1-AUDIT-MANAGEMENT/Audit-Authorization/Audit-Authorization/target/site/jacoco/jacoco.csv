@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+audit-authorization,com.mfpe.controller,AuthController,0,7,0,0,0,2,0,1,0,1
+audit-authorization,com.mfpe.security,SecurityConfig,0,54,0,0,0,14,0,5,0,5
+audit-authorization,com.mfpe.service,ProjectManagerDetailsService,5,22,0,2,1,7,1,3,1,2
+audit-authorization,com.mfpe.service,ProjectManagerService,0,3,0,0,0,1,0,1,0,1
+audit-authorization,com.mfpe.exception,ProjectManagerNotFoundException,0,4,0,0,0,2,0,1,0,1
+audit-authorization,com.mfpe,AuditAuthorizationApplication,0,3,0,0,0,1,0,1,0,1
+audit-authorization,com.mfpe,SwaggerConfig,0,15,0,0,0,6,0,2,0,2

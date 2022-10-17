@@ -1,0 +1,10 @@
+INSERT INTO question(question_id,question,audit_type,response) VALUES (1,'Have all Change requests followed SDLC before PROD move?',0,'');
+INSERT INTO question(question_id,question,audit_type,response) VALUES (2,'Have all Change requests been approved by the application owner?',0,'');
+INSERT INTO question(question_id,question,audit_type,response) VALUES (3,'Are all artifacts like CR document, Unit test cases available?',0,'');
+INSERT INTO question(question_id,question,audit_type,response) VALUES (4,'Is the SIT and UAT sign-off available?',0,'');
+INSERT INTO question(question_id,question,audit_type,response) VALUES (5,'Is data deletion from the system done with application owner approval?',0,'');
+INSERT INTO question(question_id,question,audit_type,response) VALUES (6,'Have all Change requests followed SDLC before PROD move?',1,'');
+INSERT INTO question(question_id,question,audit_type,response) VALUES (7,'Have all Change requests been approved by the application owner?',1,'');
+INSERT INTO question(question_id,question,audit_type,response) VALUES (8,'For a major change, was there a database backup taken before and after PROD move?',1,'');
+INSERT INTO question(question_id,question,audit_type,response) VALUES (9,'Has the application owner approval obtained while adding a user to the system?',1,'');
+INSERT INTO question(question_id,question,audit_type,response) VALUES (10,'Is data deletion from the system done with application owner approval?',1,'');	
